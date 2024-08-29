@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 struct queue{
     int front,rear,capacity;
     int *Arr;

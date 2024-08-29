@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int arr[] = {1,2,1,4,2,1,3};
+    
     string name = "shiivaam";
 
     unordered_map<char,int>mp;
